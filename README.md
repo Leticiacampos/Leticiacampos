@@ -1,4 +1,4 @@
-# Oi, sou Letícia :D!
+# Oi :wave:, sou Letícia :D!
 
 - :mortar_board: Formada em Ciências e Tecnologia com ênfase em Telecomunicações UFRN
 - :computer: Pós-Graduanda em **Business Intelligence e Analytics** UFRN
@@ -7,3 +7,5 @@
 - Curso disciplinas de **Devops** e **MLOps**.
 - Atualmente, busco consolidar meus conhecimentos em Machine Learning, Python e banco de dados.
 - Conheça os projetos que venho atuando [https://residencia.jfrn.jus.br/index.php/projetos/](https://residencia.jfrn.jus.br/index.php/projetos/)
+
+<h3>Ferramentas</h3>
