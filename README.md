@@ -10,4 +10,3 @@ Trabalho como residente na Justiça Federal do Rio Grande do Norte (JFRN) e como
  
  Você pode verificar meu Linkedin: [Linkedin](https://www.linkedin.com/in/let%C3%ADcianascimento/)
 
-<h3>Ferramentas</h3>
