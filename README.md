@@ -6,3 +6,4 @@
 - Cursei disciplinas de **Banco de Dados**, **Mineração de Dados**, **ETL**, **Aprendizado de Máquina**, **Análise Estatística de Dados**, **Processamento de Linguagem Natural** e **Gestão de Projetos**.
 - Curso disciplinas de **Devops** e **MLOps**.
 - Atualmente, busco consolidar meus conhecimentos em Machine Learning, Python e banco de dados.
+- Conheça os projetos que venho atuando [https://residencia.jfrn.jus.br/index.php/projetos/](https://residencia.jfrn.jus.br/index.php/projetos/)
