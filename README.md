@@ -8,5 +8,5 @@ Trabalho como residente na Justiça Federal do Rio Grande do Norte (JFRN) e como
 
  Conheça os projetos que venho atuando na Justiça Federal [Projetos](https://residencia.jfrn.jus.br/index.php/projetos/)
  
- Você pode verificar meu Linkedin [Linkedin](https://www.linkedin.com/in/let%C3%ADcianascimento/)
+ Você pode verificar meu [Linkedin](https://www.linkedin.com/in/let%C3%ADcianascimento/)
 
